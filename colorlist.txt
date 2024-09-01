@@ -5,3 +5,4 @@ green
 blou
 indigo
 violet
+gray
