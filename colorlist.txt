@@ -3,4 +3,5 @@ orange
 yellow
 green
 blou
+indigo
 violet
