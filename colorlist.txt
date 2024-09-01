@@ -6,3 +6,4 @@ blou
 indigo
 violet
 gray
+rainbow colors
